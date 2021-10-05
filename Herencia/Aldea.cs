@@ -8,9 +8,9 @@ namespace Herencia
     {
         private string nombre;
         private string ubicacion;
+        private int totalGuerreros=0, totalAldeanos = 0;
 
         public Habitante[] habitantes = new Habitante[100];
-
 
         //constructor
         public Aldea(string nombre, string ubicacion)
@@ -20,19 +20,51 @@ namespace Herencia
         }
 
         //logica de negocio
-        public void RecibirHabitante(Habitante unHabitante)
+        public void RecibirHabitante(Habitante unhabitante)
         {
-            int posicionVacia = 0;
+            int posicionVacio = 0;
             foreach (Habitante habitante in this.habitantes)
             {
-                posicionVacia++;
-                if (posicionVacia < 100)
-                {
-                    habitantes[posicionVacia-1] = unHabitante;
-                }
+                if (habitante == null)
+                    break;
+                posicionVacio++;
+            }
+            if (posicionVacio < 100)
+                habitantes[posicionVacio] = unhabitante;
+        }
+
+        /* contar guerreros y aldeanos
+         */
+        public void contarGuerrerosyAldeanos()
+        {
+            for(int i=0; i < this.habitantes.Length; i++)
+            {
+                if (habitantes[i].GetType().Name.Equals("Guerrero"))
+                    totalGuerreros++;
+                else
+                    totalAldeanos++;
             }
 
+            /*foreach (Habitante habitante in this.habitantes)
+            {       if (habitantes.GetType().Name.Equals("Guerrero"))
+                         totalGuerreros++;
+                    else
+                        totalAldeanos++;
+            }*/
         }
+
+        /**/
+        public int contarHabitantesPorNombre(string nombre)
+        {
+            int habitantesConElMismoNombre=0;
+            foreach (Habitante unHabitante in this.habitantes)
+            {
+                if (nombre.Equals(unHabitante.Nombre))
+                    habitantesConElMismoNombre++;
+            }
+            return habitantesConElMismoNombre;
+        }
+
 
         // encapsulacion gets y sets
         public string getNombre()
@@ -59,6 +91,17 @@ namespace Herencia
         {
             this.habitantes = habitantes;
         }
+
+        public int getTotalGuerreros()
+        {
+            return this.totalGuerreros;
+        }
+
+        public int getTotalAldeanos()
+        {
+            return this.totalAldeanos;
+        }
+
 
     }
 }

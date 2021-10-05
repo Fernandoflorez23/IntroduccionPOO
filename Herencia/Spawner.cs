@@ -50,16 +50,6 @@ namespace Herencia
             return fechaNacimiento;
         }
 
-        private static DateTime generarFechaDeMuerte()
-        {
-            Random rd = new Random();
-            int dia = rd.Next(1, 28);
-            int mes = rd.Next(1, 12);
-            int año = rd.Next(281, 315);
-            DateTime fechaDeMuerte= new DateTime(año, mes, dia);
-            return fechaDeMuerte;
-        }
-
         public static Habitante generarNuevoHabitante()
         {
             int id = generadorId();
@@ -68,8 +58,16 @@ namespace Herencia
             string oficio = generadorOficio();
             DateTime fechaNacimiento = generarFechaNacimiento();
 
-            Habitante unHabitante = new Habitante(id,nombre,genero,oficio,fechaNacimiento);
-            return unHabitante;
+            Random rd = new Random();
+            int tipo = rd.Next(0,2);
+
+            if (tipo == 0)
+            {  //Guerrero(string tipoGuerrrero, int id, string nombre, char genero, string oficio, DateTime fechaNacimiento)
+                Guerrero unGuerrero = new Guerrero("Arquero", id, nombre, genero, oficio, fechaNacimiento);
+                return unGuerrero;
+            }
+            Aldeano unAldeano = new Aldeano (id, nombre, genero, oficio, fechaNacimiento);
+            return unAldeano;
         }
     }
 }
