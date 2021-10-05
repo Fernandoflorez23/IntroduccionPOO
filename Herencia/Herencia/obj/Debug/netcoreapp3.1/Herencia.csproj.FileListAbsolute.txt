@@ -1,0 +1,14 @@
+C:\Universidad\2do Semestre\POO\Proyectos c#\EntendiendoPOO\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.csproj.AssemblyReference.cache
+C:\Universidad\2do Semestre\POO\Proyectos c#\EntendiendoPOO\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Universidad\2do Semestre\POO\Proyectos c#\EntendiendoPOO\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfoInputs.cache
+C:\Universidad\2do Semestre\POO\Proyectos c#\EntendiendoPOO\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.AssemblyInfo.cs
+C:\Universidad\2do Semestre\POO\Proyectos c#\EntendiendoPOO\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.csproj.CoreCompileInputs.cache
+C:\Universidad\2do Semestre\POO\Proyectos c#\EntendiendoPOO\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.exe
+C:\Universidad\2do Semestre\POO\Proyectos c#\EntendiendoPOO\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.deps.json
+C:\Universidad\2do Semestre\POO\Proyectos c#\EntendiendoPOO\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.json
+C:\Universidad\2do Semestre\POO\Proyectos c#\EntendiendoPOO\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.runtimeconfig.dev.json
+C:\Universidad\2do Semestre\POO\Proyectos c#\EntendiendoPOO\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.dll
+C:\Universidad\2do Semestre\POO\Proyectos c#\EntendiendoPOO\Herencia\Herencia\bin\Debug\netcoreapp3.1\Herencia.pdb
+C:\Universidad\2do Semestre\POO\Proyectos c#\EntendiendoPOO\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.dll
+C:\Universidad\2do Semestre\POO\Proyectos c#\EntendiendoPOO\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.pdb
+C:\Universidad\2do Semestre\POO\Proyectos c#\EntendiendoPOO\Herencia\Herencia\obj\Debug\netcoreapp3.1\Herencia.genruntimeconfig.cache
