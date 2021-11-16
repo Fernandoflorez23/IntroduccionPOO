@@ -1,0 +1,14 @@
+C:\Users\Ferna\source\repos\EvaluacionSegundoCorte\EvaluacionSegundoCorte\bin\Debug\netcoreapp3.1\EvaluacionSegundoCorte.exe
+C:\Users\Ferna\source\repos\EvaluacionSegundoCorte\EvaluacionSegundoCorte\bin\Debug\netcoreapp3.1\EvaluacionSegundoCorte.deps.json
+C:\Users\Ferna\source\repos\EvaluacionSegundoCorte\EvaluacionSegundoCorte\bin\Debug\netcoreapp3.1\EvaluacionSegundoCorte.runtimeconfig.json
+C:\Users\Ferna\source\repos\EvaluacionSegundoCorte\EvaluacionSegundoCorte\bin\Debug\netcoreapp3.1\EvaluacionSegundoCorte.runtimeconfig.dev.json
+C:\Users\Ferna\source\repos\EvaluacionSegundoCorte\EvaluacionSegundoCorte\bin\Debug\netcoreapp3.1\EvaluacionSegundoCorte.dll
+C:\Users\Ferna\source\repos\EvaluacionSegundoCorte\EvaluacionSegundoCorte\bin\Debug\netcoreapp3.1\EvaluacionSegundoCorte.pdb
+C:\Users\Ferna\source\repos\EvaluacionSegundoCorte\EvaluacionSegundoCorte\obj\Debug\netcoreapp3.1\EvaluacionSegundoCorte.csproj.AssemblyReference.cache
+C:\Users\Ferna\source\repos\EvaluacionSegundoCorte\EvaluacionSegundoCorte\obj\Debug\netcoreapp3.1\EvaluacionSegundoCorte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferna\source\repos\EvaluacionSegundoCorte\EvaluacionSegundoCorte\obj\Debug\netcoreapp3.1\EvaluacionSegundoCorte.AssemblyInfoInputs.cache
+C:\Users\Ferna\source\repos\EvaluacionSegundoCorte\EvaluacionSegundoCorte\obj\Debug\netcoreapp3.1\EvaluacionSegundoCorte.AssemblyInfo.cs
+C:\Users\Ferna\source\repos\EvaluacionSegundoCorte\EvaluacionSegundoCorte\obj\Debug\netcoreapp3.1\EvaluacionSegundoCorte.csproj.CoreCompileInputs.cache
+C:\Users\Ferna\source\repos\EvaluacionSegundoCorte\EvaluacionSegundoCorte\obj\Debug\netcoreapp3.1\EvaluacionSegundoCorte.dll
+C:\Users\Ferna\source\repos\EvaluacionSegundoCorte\EvaluacionSegundoCorte\obj\Debug\netcoreapp3.1\EvaluacionSegundoCorte.pdb
+C:\Users\Ferna\source\repos\EvaluacionSegundoCorte\EvaluacionSegundoCorte\obj\Debug\netcoreapp3.1\EvaluacionSegundoCorte.genruntimeconfig.cache
