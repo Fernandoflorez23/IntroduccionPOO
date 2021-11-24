@@ -1,0 +1,14 @@
+C:\Users\Ferna\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.exe
+C:\Users\Ferna\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.deps.json
+C:\Users\Ferna\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.runtimeconfig.json
+C:\Users\Ferna\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.runtimeconfig.dev.json
+C:\Users\Ferna\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.dll
+C:\Users\Ferna\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\netcoreapp3.1\ProyectoFinal.pdb
+C:\Users\Ferna\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Ferna\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferna\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\Ferna\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.AssemblyInfo.cs
+C:\Users\Ferna\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Ferna\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.dll
+C:\Users\Ferna\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.pdb
+C:\Users\Ferna\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\netcoreapp3.1\ProyectoFinal.genruntimeconfig.cache
