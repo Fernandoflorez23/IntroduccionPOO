@@ -28,7 +28,7 @@ namespace ProyectoFinal
         public int getEdad()
         {
             int currentYear = DateTime.Now.Year;
-            int year = birthDate.Year;
+            int year = getBirthDate().Year;
             return currentYear - year;
         }
         public override string ToString()
@@ -74,6 +74,28 @@ namespace ProyectoFinal
         public void setSalary(double salary)
         {
             this.salary = salary;
+        }
+    }
+    class Veterinary : Employee
+    {
+        private string university;
+        private string specialty;
+        public Veterinary(string university, string specialty, string firstName, string lastName, DateTime birthDate, DateTime startDate, double salary) : base(firstName, lastName, birthDate, startDate, salary)
+        {
+            this.university = university;
+            this.specialty = specialty;
+        }
+        public override string ToString()
+        {
+            return "Nombre: " + getFullName() + "\nEdad: " + getEdad() + "\nSalario: " + getSalary()+"\nUniversity:"+this.university;
+        }
+    }
+    class GeneralDirector : Employee
+    {
+        private string university;
+        public GeneralDirector(string university, string firstName, string lastName, DateTime birthDate, DateTime startDate, double salary) : base(firstName, lastName, birthDate, startDate, salary)
+        {
+            this.university = university;
         }
     }
 }
